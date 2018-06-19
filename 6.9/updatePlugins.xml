@@ -1,3 +1,3 @@
 <plugins>
-  <plugin id="com.symbol.emdk.wizard.intellijIdea" url="file:///C:/Plugin/Repo/EMDK/6.9/com.symbol.emdk.wizard.intellijIdea.zip" version="6.9"/>
+  <plugin id="com.symbol.emdk.wizard.intellijIdea" url="https://raw.githubusercontent.com/meipitakotuwa/plugin/master/6.9/com.symbol.emdk.wizard.intellijIdea.zip" version="6.9"/>
 </plugins>
